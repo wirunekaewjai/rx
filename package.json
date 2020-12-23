@@ -1,6 +1,6 @@
 {
   "name": "@wirunekaewjai/rx",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "@types/node": "^14.14.9",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
-    "@wirunekaewjai/css": "^0.5.3",
+    "@wirunekaewjai/css": "0.5.6",
     "clsx": "^1.1.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",

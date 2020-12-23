@@ -73,10 +73,10 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@wirunekaewjai/css@^0.5.3":
-  version "0.5.3"
-  resolved "https://registry.yarnpkg.com/@wirunekaewjai/css/-/css-0.5.3.tgz#90c467ba80cc921bdd835b0544076631d136ced3"
-  integrity sha512-eAlm4XJh+ert/ChQh3uURSt2NZUnM2qecAA3NLdRXboQaK9xpqpZkftidCUNPFyw9IDTPGngRK4gK9pMgwKZsQ==
+"@wirunekaewjai/css@0.5.6":
+  version "0.5.6"
+  resolved "https://registry.yarnpkg.com/@wirunekaewjai/css/-/css-0.5.6.tgz#255115c1a92565291c3942f63a7f43c347856e9b"
+  integrity sha512-B9t3C+G418QWgCxG9JdX6sBw8S8AzWeHrIESYWAnmU8n4rtlu4X17YIRSZ8UrU4kIiEkgAmMSyR9bL452b5Ofg==
   dependencies:
     "@types/chalk" "^2.2.0"
     "@types/fs-extra" "^9.0.5"

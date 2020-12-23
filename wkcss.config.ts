@@ -10,8 +10,8 @@ export default config({
   ],
 
   module: {
-    inputs: ['.m.ts'],
-    output: '.ts',
+    inputs: ['.m.js'],
+    output: '.js',
   },
 
   build: {

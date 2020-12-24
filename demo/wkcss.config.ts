@@ -15,7 +15,11 @@ export default config({
   },
 
   build: {
-    directory: '',
-    entries: {},
+    directory: 'public/css',
+    entries: {
+      home: [
+        'src/pages/index.tsx'
+      ],
+    },
   },
 });

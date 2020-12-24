@@ -29,5 +29,11 @@ else
   versions[2] = (parseInt(versions[2], 10) + 1).toString(10);
 }
 
-data.version = versions.join('.');
+const curr = data.version;
+const next = versions.join('.');
+
+data.version = next;
+
 fs.writeFileSync(file, JSON.stringify(data, null, 2));
+
+console.log(`v${curr} -> v${next}`);

@@ -1,7 +1,8 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const names = {
-  "screen": "t u v w x y z A B C D g h k",
-  "screenOpen": "E",
-  "screenClose": "F G"
+    "screen": "a b c d e f g h i j k l m n",
+    "screenOpen": "o",
+    "screenClose": "p q"
 };
-
-export default names;
+exports.default = names;
